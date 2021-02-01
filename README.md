@@ -41,6 +41,7 @@ npm run test
 
 ## Cadastro de usuarios
 
+## Criar users
 Exemplo para o body da requisição
 ```bash
 POST http://localhost:3333/users
