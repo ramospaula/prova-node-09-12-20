@@ -60,7 +60,7 @@ DELETE http://localhost:3333/users/:id
 ## Listar users
 
 ```bash
-GET http://localhost:3333/rules
+GET http://localhost:3333/users
 ```
 
 ## Update users
