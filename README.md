@@ -71,3 +71,11 @@ GET http://localhost:3333/users
 PUT http://localhost:3333/users/:id
 deve poder atualizar o username
 ```
+
+## Filtrar users
+
+```bash
+GET http://localhost:3333/users/:id
+deve encontrar um username
+```
+
