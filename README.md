@@ -50,6 +50,7 @@ POST http://localhost:3333/users
   "username": "paula"
 }
 ```
+os campos email e username são unicos na tabela
 
 ## Apagar users
 
